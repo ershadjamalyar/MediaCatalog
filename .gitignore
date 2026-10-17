@@ -1,0 +1,17 @@
+
+# Maven build files
+target/
+
+# NetBeans private files
+nbproject/private/
+
+# IDE files
+.idea/
+*.iml
+
+# Generated binary file
+catalog.bin
+
+# System files
+.DS_Store
+Thumbs.db
